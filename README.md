@@ -12,7 +12,7 @@ you can redistribute them and/or modify them under the terms of the
 GNU General Public License as published by the Free Software Foundation;
 or any other open source licence found in the LICENSE.md file. (at your option).
 
-See LICENCE.md or http://www.github.com/mikeotizels/developer/LICENSE.md for details. 
+See LICENCE.md for details. 
 
 
 Platforms
