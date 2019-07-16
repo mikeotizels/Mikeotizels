@@ -1,16 +1,13 @@
 Mikeotizels Developer - Software Readme
 =======================================
 
-"Built by a Developer, for a Developer. Make it Bigger and Better!"
-
 Mikotizels projects under Mikeotizels Developer are build for use 
 by other developers for development purpose only. 
 For commercial use, you may need to buy Mikeotizels Commercial License.
 
-All Mikeotizels Developer projects are free software; 
-you can redistribute them and/or modify them under the terms of the 
-GNU General Public License as published by the Free Software Foundation;
-or any other open source licence found in the LICENSE.md file. (at your option).
+Code distributed as part of Mikeotizels Developer project is released 
+under the terms of any of the Open Source licenses found in the LICENSE 
+file, at your choice.
 
 See LICENCE.md for details. 
 
@@ -57,12 +54,10 @@ Databases
 =========
 1. MySQL
 
-Frameworks
-==========
-1. Bootstrap
-2. W3
-
 Servers
 =======
 1. Apache
 2. SQL 
+
+
+*"Built by a Developer, for a Developer. Make it Bigger and Better!"*
