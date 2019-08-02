@@ -1,9 +1,9 @@
 Mikeotizels Developer - Software License
 ========================================
 
-Copyright (c) 2019 Michael Otieno. All rights reserved.
+Copyright (c) 2019 Michael Otieno. All Rights Reserved.
 
-Code distributed as part of Mikeotizels Developer project is released under
+Software distributed as part of Mikeotizels Developer project is released under
 the terms of any of the following Open Source licenses at your choice:
 
   - GNU General Public License, Version 3 or later (the "GPL")
@@ -35,7 +35,7 @@ the terms of any of the following Open Source licenses at your choice:
     (See Appendix G)
     
 
-Code distributed by Mikeotizels as part of the Developer project is also
+Software distributed by Mikeotizels as part of the Developer project is also
 subject to an additional IP rights grants:
 
 You are not required to, but if you want to explicitly declare the license
@@ -47,7 +47,7 @@ version of the software, indicating your license choice.
 In any case, your choice will not restrict any recipient 
 of your version of the software to use, reproduce, 
 modify and distribute the software under any of 
-the above licenses.
+the Open Source licenses.
 
 
 Main Code
@@ -57,7 +57,7 @@ The main code includes the specified directories and files in
 the LICENSE file for a given software.
 
 Mikeotizels Developer projects also uses other modules 
-(HTML, CSS, SVG, JavaScript, jQuery, PHP, SQL, e.t.c).
+(HTML, CSS, SVG, JavaScript, PHP, SQL e.t.c).
 EACH OF THESE MODULES IS RELEASED UNDER ITS OWN LICENSE.
 
 
@@ -67,8 +67,8 @@ Sources of Intellectual Property
 Where not otherwise indicated, all Mikeotizels Developer projects content
 are authored by Michael Otieno and consists of Mikeotizels-owned 
 intellectual property. In some specific instances, Mikeotizels 
-will incorporate libraries and work done by other developers
-with their express permission.
+will incorporate libraries, frameworks, and work done by other 
+developers with their express permission.
 
 
 Trademarks
@@ -78,7 +78,7 @@ Where not otherwise indicated, all Mikeotizels Developer projects are
 trademarks of Mikeotizels - Michael Otieno.
 
 
-======================================================================
+
 ----------------------------------------------------------------------
 
 Appendix A: The GPL License
@@ -1439,7 +1439,7 @@ deleting, or substituting -- in part or in whole -- any of the
 components of the Original Version, by changing formats or by porting 
 the Font Software to a new environment.
 
-"Author" refers to any designer, engineer, programmer, technical
+"Author" refers to any Developer, engineer, programmer, technical
 writer or other person who contributed to the Font Software.
 
 PERMISSION & CONDITIONS
@@ -1558,4 +1558,3 @@ POSSIBILITY OF SUCH DAMAGE.
 ```
 
 ----------------------------------------------------------------------
-======================================================================
